@@ -1,0 +1,10 @@
+- Linux platform
+
+- make file
+
+- the class names should be self explainable
+
+- it provides an interactive console that you issue command
+  - to sell: sell BHP 20 20 1
+  - to buy: buy BHP 10 10 1
+  - to remove: remove 1
